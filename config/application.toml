@@ -1,0 +1,5 @@
+port = "10373"
+
+[datasource]
+driverName = "mysql"
+dataSourceName = "root:123456@tcp(127.0.0.1:3306)/iris?charset=utf8"
